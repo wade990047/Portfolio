@@ -1,5 +1,5 @@
 const data=window.PORTFOLIO;
-const categories={events:'活動邀請',pv:'PV 動畫',original:'原創',short:'短影音宣傳',other:'其他',tools:'工具網站'};
+const categories={events:'活動邀請',pv:'PV 動畫',original:'原創',short:'短影音宣傳',tools:'工具網站',other:'其他'};
 const descriptions={events:'走進現場，讓角色與故事在真實世界相遇。',pv:'跟著音樂的節奏，探索文字與畫面的動態表現。',original:'從一個想法出發，延伸成角色、影像與完整的故事。',short:'在短篇幅裡，留下鮮明的第一印象。',other:'動態設計、平面視覺，以及創作中的其他嘗試。',tools:'透過功能介紹與操作影片，認識我製作的工具網站。'};
 const main=document.querySelector('main');
 const params=new URLSearchParams(location.search);
