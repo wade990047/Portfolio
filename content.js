@@ -104,6 +104,58 @@ window.PORTFOLIO = {
       ]
     },
     {
+      "id": "work-03",
+      "title": "招財貓市集",
+      "category": "events",
+      "credit": "攝影：克爾\n攝影：新鹽埕商圈",
+      "date": "2026.09.19–20",
+      "client": "新鹽埕商圈繁榮協會",
+      "description": "招財貓市集活動邀請與現場紀錄。",
+      "images": [
+        {
+          "src": "assets/work-03-image-0.webp",
+          "photographer": "克爾",
+          "caption": "攝影：克爾",
+          "alt": "招財貓市集活動紀錄"
+        },
+        {
+          "src": "assets/work-03-image-3.webp",
+          "photographer": "克爾",
+          "caption": "攝影：克爾",
+          "alt": "招財貓市集活動紀錄"
+        },
+        {
+          "src": "assets/work-03-image-5.webp",
+          "photographer": "克爾",
+          "caption": "攝影：克爾",
+          "alt": "招財貓市集活動紀錄"
+        },
+        {
+          "src": "assets/work-03-image-6.webp",
+          "photographer": "克爾",
+          "caption": "攝影：克爾",
+          "alt": "招財貓市集活動紀錄"
+        },
+        {
+          "src": "assets/work-03-image-8.webp",
+          "photographer": "克爾",
+          "caption": "攝影：克爾",
+          "alt": "招財貓市集活動紀錄"
+        },
+        {
+          "src": "assets/work-03-image-9.webp",
+          "photographer": "新鹽埕商圈",
+          "caption": "攝影：新鹽埕商圈",
+          "alt": "招財貓市集活動紀錄"
+        }
+      ],
+      "videos": [],
+      "cover": "assets/work-03-image-0.webp",
+      "sortDate": "2026-09-19",
+      "location": "高雄鹽埕商圈",
+      "posters": []
+    },
+    {
       "id": "work-04",
       "title": "穿梭次元",
       "category": "events",
@@ -293,58 +345,6 @@ window.PORTFOLIO = {
       "cover": "assets/work-05-image-0.webp",
       "sortDate": "2025-11-15",
       "location": "",
-      "posters": []
-    },
-    {
-      "id": "work-03",
-      "title": "招財貓市集",
-      "category": "events",
-      "credit": "攝影：克爾\n攝影：新鹽埕商圈",
-      "date": "2025.09.19–20",
-      "client": "新鹽埕商圈繁榮協會",
-      "description": "招財貓市集活動邀請與現場紀錄。",
-      "images": [
-        {
-          "src": "assets/work-03-image-0.webp",
-          "photographer": "克爾",
-          "caption": "攝影：克爾",
-          "alt": "招財貓市集活動紀錄"
-        },
-        {
-          "src": "assets/work-03-image-3.webp",
-          "photographer": "克爾",
-          "caption": "攝影：克爾",
-          "alt": "招財貓市集活動紀錄"
-        },
-        {
-          "src": "assets/work-03-image-5.webp",
-          "photographer": "克爾",
-          "caption": "攝影：克爾",
-          "alt": "招財貓市集活動紀錄"
-        },
-        {
-          "src": "assets/work-03-image-6.webp",
-          "photographer": "克爾",
-          "caption": "攝影：克爾",
-          "alt": "招財貓市集活動紀錄"
-        },
-        {
-          "src": "assets/work-03-image-8.webp",
-          "photographer": "克爾",
-          "caption": "攝影：克爾",
-          "alt": "招財貓市集活動紀錄"
-        },
-        {
-          "src": "assets/work-03-image-9.webp",
-          "photographer": "新鹽埕商圈",
-          "caption": "攝影：新鹽埕商圈",
-          "alt": "招財貓市集活動紀錄"
-        }
-      ],
-      "videos": [],
-      "cover": "assets/work-03-image-0.webp",
-      "sortDate": "2025-09-19",
-      "location": "高雄鹽埕商圈",
       "posters": []
     },
     {
