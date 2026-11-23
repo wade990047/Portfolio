@@ -96,3 +96,6 @@ body{isolation:isolate}
  .about-photo>.socials{gap:8px}
  .about-photo .social-link{width:30px;height:30px}
 }
+
+/* Hide native long-press save menus where supported. */
+img,video{-webkit-touch-callout:none;-webkit-user-drag:none;user-select:none}
