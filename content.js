@@ -352,8 +352,8 @@ window.PORTFOLIO = {
       "title": "くうになる",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 雪露[X: Sheryl740837](https://x.com/Sheryl740837)\n\n音樂: くうになる(MIMI)",
-      "date": "",
-      "client": "",
+      "date": "2026.09.09",
+      "client": "雪露",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -371,8 +371,8 @@ window.PORTFOLIO = {
       "title": "なでなで",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 奇奇[X: qwqspeeds](https://x.com/qwqspeeds)\n圖像: 雪露[X: Sheryl740837](https://x.com/Sheryl740837)\n音樂: なでなで",
-      "date": "",
-      "client": "",
+      "date": "2024.08.19",
+      "client": "納比",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -390,8 +390,8 @@ window.PORTFOLIO = {
       "title": "にゅー支配者のキャロル",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: にゅー支配者のキャロル(藤原ハガネ)",
-      "date": "",
-      "client": "",
+      "date": "2026.07.28",
+      "client": "吶豆",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -409,8 +409,8 @@ window.PORTFOLIO = {
       "title": "アブノーマリティ･ダンシンガール",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: アブノーマリティ･ダンシンガール(ぐちり)",
-      "date": "",
-      "client": "",
+      "date": "2026.07.15",
+      "client": "吶豆",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -428,7 +428,7 @@ window.PORTFOLIO = {
       "title": "キラー",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: キラー(夏代孝明)",
-      "date": "",
+      "date": "2026.08.11",
       "client": "",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
@@ -447,8 +447,8 @@ window.PORTFOLIO = {
       "title": "グッバイ宣言",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 2zi[X: 2zi](https://x.com/bonnie_chiou)\n\n音樂: グッバイ宣言(Chinozo)",
-      "date": "",
-      "client": "",
+      "date": "2023.09.14",
+      "client": "阿綠",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -466,8 +466,8 @@ window.PORTFOLIO = {
       "title": "ライアーダンサー",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: ライアーダンサー(マサラダ)",
-      "date": "",
-      "client": "",
+      "date": "2026.04.01",
+      "client": "滄瀾幽影",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -485,8 +485,8 @@ window.PORTFOLIO = {
       "title": "ラビットホールク",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 鋏音灰色[FB: 鋏音灰色](https://www.facebook.com/jia.yin.hui.se)\n音樂: ラビットホールク(Deco*27)",
-      "date": "",
-      "client": "",
+      "date": "2026.09.14",
+      "client": "鋏音灰色",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
       "videos": [
@@ -504,7 +504,7 @@ window.PORTFOLIO = {
       "title": "正解",
       "category": "pv",
       "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 糖粉[X: err215670w02](https://x.com/err215670w02)\n\n音樂: 正解(雨良 Amala)",
-      "date": "",
+      "date": "2026.09.17",
       "client": "",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
       "images": [],
@@ -523,7 +523,7 @@ window.PORTFOLIO = {
       "title": "再見，再建",
       "category": "original",
       "credit": "剪輯: 龍沁\n分鏡: 很多龍[FB: 很多龍](https://www.facebook.com/hen.duo.ren.2025)、龍沁\n圖像: \n\n糖粉[X: err215670w02](https://x.com/err215670w02)\n莊劭韋[FB: 莊劭韋](https://www.facebook.com/zhuang.shao.wei.550407)\n\n混音: 時光音樂工作室\n\n旁白錄音: 傑鶆伊[FB: 傑鶆伊](https://www.facebook.com/Giraii3)\n\n音樂:\nセカイ(Deco*27)\nJourney(Deco*27) \nハローセカイ(Deco*27)",
-      "date": "",
+      "date": "2026.01.14–2026.11.21",
       "client": "",
       "description": "以「告別／重建」為核心，結合角色故事、音樂重編曲、原創編舞與動態影像的跨媒介舞台企劃。停滯，也在向前。",
       "images": [],
@@ -540,14 +540,53 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "原創企劃",
-      "cover": "assets/work-16-video-0.webp"
+      "cover": "assets/work-16-video-0.webp",
+      "dateLabel": "專案期間",
+      "milestones": [
+        {
+          "date": "2026.01.14",
+          "title": "Teaser.1"
+        },
+        {
+          "date": "2026.02.01",
+          "title": "Teaser.2"
+        },
+        {
+          "date": "2026.04.17",
+          "title": "角色設計",
+          "description": "合作：糖粉"
+        },
+        {
+          "date": "2026.05.05",
+          "title": "Teaser.3"
+        },
+        {
+          "date": "2026.08.22",
+          "title": "實際演出",
+          "description": "高雄夢時代"
+        },
+        {
+          "date": "2026.09.26",
+          "title": "翻唱 MV"
+        },
+        {
+          "date": "2026.11.01",
+          "title": "實際演出",
+          "description": "台中麗寶福容"
+        },
+        {
+          "date": "2026.11.21",
+          "title": "實際演出",
+          "description": "高雄衛武營"
+        }
+      ]
     },
     {
       "id": "work-17",
       "title": "再見，再建｜Teaser",
       "category": "original",
       "credit": "剪輯、文案: 龍沁\n\n圖像: \n糖粉[X: err215670w02](https://x.com/err215670w02)\n莊劭韋[FB: 莊劭韋](https://www.facebook.com/zhuang.shao.wei.550407)",
-      "date": "",
+      "date": "2026.01.14–2026.05.05",
       "client": "",
       "description": "將世界觀與角色故事轉化為短篇前導影像。",
       "images": [],
@@ -555,28 +594,32 @@ window.PORTFOLIO = {
         {
           "src": "assets/work-17-video-0.mp4",
           "poster": "assets/work-17-video-0.webp",
-          "label": "teaser_1"
+          "label": "Teaser.1",
+          "date": "2026.01.14"
         },
         {
           "src": "assets/work-17-video-1.mp4",
           "poster": "assets/work-17-video-1.webp",
-          "label": "teaser_2"
+          "label": "Teaser.2",
+          "date": "2026.02.01"
         },
         {
           "src": "assets/work-17-video-2.mp4",
           "poster": "assets/work-17-video-2.webp",
-          "label": "teaser_3"
+          "label": "Teaser.3",
+          "date": "2026.05.05"
         }
       ],
       "kind": "原創企劃",
-      "cover": "assets/work-17-video-0.webp"
+      "cover": "assets/work-17-video-0.webp",
+      "dateLabel": "製作期間"
     },
     {
       "id": "work-18",
       "title": "再見，再建｜角色與世界觀",
       "category": "original",
       "credit": "角色、故事大綱、服裝: 龍沁\n圖像: 糖粉[X: err215670w02](https://x.com/err215670w02)",
-      "date": "",
+      "date": "2026.04.17",
       "client": "",
       "description": "殘光再構 LUXEMNANT。龍沁、米糖、石頭、幻幻與夏魯，共同走向重建的旅程。",
       "images": [
@@ -603,14 +646,15 @@ window.PORTFOLIO = {
       ],
       "videos": [],
       "kind": "角色企劃",
-      "cover": "assets/work-18-image-0.webp"
+      "cover": "assets/work-18-image-0.webp",
+      "collaborators": "糖粉"
     },
     {
       "id": "work-19",
       "title": "雨，你",
       "category": "original",
       "credit": "文字腳本、剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 奇奇[X: qwqspeeds](https://x.com/qwqspeeds)\n音樂: 穹夜[X: leahcim0814](https://x.com/leahcim0814)",
-      "date": "",
+      "date": "2024.07.10",
       "client": "",
       "description": "從文字腳本出發，結合原創音樂與插畫的敘事影像。",
       "images": [],
@@ -622,14 +666,15 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "原創敘事",
-      "cover": "assets/work-19-video-0.webp"
+      "cover": "assets/work-19-video-0.webp",
+      "collaborators": "穹夜、奇奇、Nero"
     },
     {
       "id": "work-20",
       "title": "全支付宣傳",
       "category": "short",
       "credit": "",
-      "date": "",
+      "date": "2025.11.18",
       "client": "",
       "description": "以短篇幅呈現宣傳訊息與影像節奏。",
       "images": [],
@@ -648,7 +693,7 @@ window.PORTFOLIO = {
       "title": "全聯年菜推銷",
       "category": "short",
       "credit": "",
-      "date": "",
+      "date": "2025.12.31",
       "client": "",
       "description": "以短篇幅呈現宣傳訊息與影像節奏。",
       "images": [],
@@ -667,8 +712,8 @@ window.PORTFOLIO = {
       "title": "極光創漫祭宣傳",
       "category": "short",
       "credit": "",
-      "date": "",
-      "client": "",
+      "date": "2026.10.19",
+      "client": "極光創漫祭",
       "description": "以短篇幅呈現宣傳訊息與影像節奏。",
       "images": [],
       "videos": [
@@ -686,8 +731,8 @@ window.PORTFOLIO = {
       "title": "天天｜讀取動畫",
       "category": "other",
       "credit": "",
-      "date": "",
-      "client": "",
+      "date": "2024.06.29",
+      "client": "天天",
       "description": "循環播放的讀取動畫。",
       "images": [],
       "videos": [
@@ -705,8 +750,8 @@ window.PORTFOLIO = {
       "title": "奇奇｜讀取動畫",
       "category": "other",
       "credit": "",
-      "date": "",
-      "client": "",
+      "date": "2024.02.06",
+      "client": "奇奇",
       "description": "循環播放的讀取動畫。",
       "images": [],
       "videos": [
@@ -724,8 +769,8 @@ window.PORTFOLIO = {
       "title": "2026 HiFurry｜名片設計",
       "category": "other",
       "credit": "",
-      "date": "",
-      "client": "",
+      "date": "2026.04.21",
+      "client": "奇奇",
       "description": "角色視覺與個人識別的名片應用。",
       "images": [
         {
