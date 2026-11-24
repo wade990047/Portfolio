@@ -106,8 +106,39 @@ document.querySelectorAll('.dropdown').forEach(drop=>{
  });
 });
 document.addEventListener('click',e=>dropdowns.forEach(menu=>{if(!menu.drop.contains(e.target))menu.set(false)}));
-// Reduce direct save entry points without blocking text selection or player controls.
+// These UI restrictions do not hide files already delivered to the browser.
 const isMediaTarget=target=>Boolean(target?.closest?.('img,video'));
-document.addEventListener('contextmenu',e=>{if(isMediaTarget(e.target))e.preventDefault()});
+document.addEventListener('contextmenu',e=>e.preventDefault());
+document.addEventListener('keydown',e=>{
+ const key=e.key.toLowerCase();
+ if(key==='f12'||((e.ctrlKey||e.metaKey)&&key==='u')||((e.ctrlKey||e.metaKey)&&e.shiftKey&&['i','j','c'].includes(key))||(e.metaKey&&e.altKey&&['i','j','c','u'].includes(key)))e.preventDefault();
+});
 document.addEventListener('dragstart',e=>{if(isMediaTarget(e.target))e.preventDefault()});
+async function initializeVideos(){
+ const videos=Array.from(main.querySelectorAll('video'));
+ if(!videos.length)return;
+ const first=videos[0];let userInteracted=false;
+ videos.forEach(video=>{
+  video.volume=.3;
+  video.addEventListener('pointerdown',()=>{userInteracted=true},{once:true});
+  video.addEventListener('keydown',()=>{userInteracted=true},{once:true});
+  video.addEventListener('play',()=>{videos.forEach(other=>{if(other!==video)other.pause()});if(video!==first)userInteracted=true});
+ });
+ if(document.hidden)return;
+ first.preload='auto';first.autoplay=true;
+ try{await first.play();return}catch(error){if(error.name!=='NotAllowedError'||userInteracted)return}
+ // Browsers may require a gesture for sound; use muted autoplay as a fallback.
+ if(document.hidden||userInteracted)return;
+ first.muted=true;
+ const action=document.createElement('button');action.type='button';action.className='button video-sound-action';
+ action.textContent='開啟聲音';action.setAttribute('aria-label','開啟影片聲音，音量 30%');
+ first.insertAdjacentElement('afterend',action);
+ first.addEventListener('volumechange',()=>{action.hidden=!first.muted});
+ action.addEventListener('click',async()=>{
+  userInteracted=true;first.volume=.3;first.muted=false;
+  try{await first.play();action.hidden=true}catch{action.hidden=false;action.textContent='播放影片';action.setAttribute('aria-label','播放影片')}
+ });
+ try{await first.play()}catch{action.textContent='播放影片';action.setAttribute('aria-label','播放影片')}
+}
 const page=location.pathname.split('/').pop();if(page==='works.html')works();else if(page==='work.html')detail();else if(page==='about.html')about();else if(page==='partners.html')partners();else home();
+if(page==='work.html')initializeVideos();

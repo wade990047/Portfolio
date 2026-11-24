@@ -1,4 +1,6 @@
 /* Unified dark art direction for the experimental edition. */
+.motion-hero .hero-actions .button,.motion-hero .hero-actions .button:hover,.motion-hero .hero-actions .button:focus-visible{color:#000}
+.video-sound-action{margin-top:14px;font-size:14px}.video-sound-action[hidden]{display:none}
 :root{color-scheme:dark;--paper:#111714;--ink:#eef4e8;--muted:#a8b6aa;--line:#354239;--light:#1c2820;--purple:#d6ff58;--violet:#d6ff58;--acid:#d6ff58;--surface:#18221b;--deep:#0b100d;background:var(--paper);color:var(--ink)}
 body,main{background:var(--paper);color:var(--ink)}::selection{background:var(--acid);color:#111714}a:focus-visible,button:focus-visible,input:focus-visible{outline-color:var(--acid)}
 .header{background:#111714f2;border-color:var(--line)}.brand,.nav-link{color:var(--ink)}.nav-link span{color:var(--muted)}.nav-link:hover,.nav-link.active{color:var(--acid)}.nav-link.active:after{background:var(--acid)}
