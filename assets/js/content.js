@@ -80,6 +80,14 @@ window.PORTFOLIO = {
           "caption": "",
           "alt": "築城四十・守護幸福活動宣傳圖"
         }
+      ],
+      "creditRows": [
+        {
+          "role": "攝影",
+          "names": [
+            "Sanu Keçisy"
+          ]
+        }
       ]
     },
     {
@@ -101,7 +109,8 @@ window.PORTFOLIO = {
           "caption": "",
           "alt": "Y2K千禧時光機活動宣傳圖"
         }
-      ]
+      ],
+      "creditRows": []
     },
     {
       "id": "work-03",
@@ -153,7 +162,21 @@ window.PORTFOLIO = {
       "cover": "assets/work-03-image-0.webp",
       "sortDate": "2026-09-19",
       "location": "高雄鹽埕商圈",
-      "posters": []
+      "posters": [],
+      "creditRows": [
+        {
+          "role": "攝影",
+          "names": [
+            "克爾"
+          ]
+        },
+        {
+          "role": "攝影",
+          "names": [
+            "新鹽埕商圈"
+          ]
+        }
+      ]
     },
     {
       "id": "work-04",
@@ -229,7 +252,27 @@ window.PORTFOLIO = {
       "cover": "assets/work-04-image-5.webp",
       "sortDate": "2026-08-22",
       "location": "高雄夢時代",
-      "posters": []
+      "posters": [],
+      "creditRows": [
+        {
+          "role": "攝影",
+          "names": [
+            "Sanu Keçisy"
+          ]
+        },
+        {
+          "role": "攝影",
+          "names": [
+            "禍紗 - Velum Calamitatis"
+          ]
+        },
+        {
+          "role": "攝影",
+          "names": [
+            "歐通通"
+          ]
+        }
+      ]
     },
     {
       "id": "work-06",
@@ -269,7 +312,20 @@ window.PORTFOLIO = {
           "caption": "繪圖：雪露",
           "alt": "糖藝文化節活動宣傳圖"
         }
-      ]
+      ],
+      "creditRows": [
+        {
+          "role": "攝影",
+          "names": [
+            "Sanu Keçisy"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-06-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-05",
@@ -345,13 +401,27 @@ window.PORTFOLIO = {
       "cover": "assets/work-05-image-0.webp",
       "sortDate": "2025-11-15",
       "location": "",
-      "posters": []
+      "posters": [],
+      "creditRows": [
+        {
+          "role": "攝影",
+          "names": [
+            "Sanu Keçisy"
+          ]
+        },
+        {
+          "role": "攝影",
+          "names": [
+            "高雄市立圖書館總館"
+          ]
+        }
+      ]
     },
     {
       "id": "work-07",
       "title": "くうになる",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 雪露[X: Sheryl740837](https://x.com/Sheryl740837)\n\n音樂: くうになる(MIMI)",
+      "credit": "剪輯：龍沁\n圖像：雪露\n音樂：くうになる(MIMI)",
       "date": "2026.09.09",
       "client": "雪露",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -364,13 +434,38 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-07-video-0.webp"
+      "cover": "assets/work-07-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "雪露"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "くうになる(MIMI)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-07-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-08",
       "title": "なでなで",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 奇奇[X: qwqspeeds](https://x.com/qwqspeeds)\n圖像: 雪露[X: Sheryl740837](https://x.com/Sheryl740837)\n音樂: なでなで",
+      "credit": "剪輯：龍沁\n圖像：奇奇\n圖像：雪露\n音樂：なでなで",
       "date": "2024.08.19",
       "client": "納比",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -383,13 +478,44 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-08-video-0.webp"
+      "cover": "assets/work-08-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "奇奇"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "雪露"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "なでなで"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-08-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-09",
       "title": "にゅー支配者のキャロル",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: にゅー支配者のキャロル(藤原ハガネ)",
+      "credit": "剪輯：龍沁\n音樂：にゅー支配者のキャロル(藤原ハガネ)",
       "date": "2026.07.28",
       "client": "吶豆",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -402,13 +528,32 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-09-video-0.webp"
+      "cover": "assets/work-09-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "にゅー支配者のキャロル(藤原ハガネ)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-09-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-10",
       "title": "アブノーマリティ･ダンシンガール",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: アブノーマリティ･ダンシンガール(ぐちり)",
+      "credit": "剪輯：龍沁\n音樂：アブノーマリティ･ダンシンガール(ぐちり)",
       "date": "2026.07.15",
       "client": "吶豆",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -421,13 +566,32 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-10-video-0.webp"
+      "cover": "assets/work-10-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "アブノーマリティ･ダンシンガール(ぐちり)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-10-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-11",
       "title": "キラー",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: キラー(夏代孝明)",
+      "credit": "剪輯：龍沁\n音樂：キラー(夏代孝明)",
       "date": "2026.08.11",
       "client": "",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -440,13 +604,32 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-11-video-0.webp"
+      "cover": "assets/work-11-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "キラー(夏代孝明)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-11-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-12",
       "title": "グッバイ宣言",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 2zi[X: 2zi](https://x.com/bonnie_chiou)\n\n音樂: グッバイ宣言(Chinozo)",
+      "credit": "剪輯：龍沁\n圖像：2zi\n音樂：グッバイ宣言(Chinozo)",
       "date": "2023.09.14",
       "client": "阿綠",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -459,13 +642,38 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-12-video-0.webp"
+      "cover": "assets/work-12-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "2zi"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "グッバイ宣言(Chinozo)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-12-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-13",
       "title": "ライアーダンサー",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n音樂: ライアーダンサー(マサラダ)",
+      "credit": "剪輯：龍沁\n音樂：ライアーダンサー(マサラダ)",
       "date": "2026.04.01",
       "client": "滄瀾幽影",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -478,13 +686,32 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-13-video-0.webp"
+      "cover": "assets/work-13-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "ライアーダンサー(マサラダ)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-13-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-14",
       "title": "ラビットホールク",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 鋏音灰色[FB: 鋏音灰色](https://www.facebook.com/jia.yin.hui.se)\n音樂: ラビットホールク(Deco*27)",
+      "credit": "剪輯：龍沁\n圖像：鋏音灰色\n音樂：ラビットホールク(Deco*27)",
       "date": "2026.09.14",
       "client": "鋏音灰色",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -497,13 +724,38 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-14-video-0.webp"
+      "cover": "assets/work-14-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "鋏音灰色"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "ラビットホールク(Deco*27)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-14-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-15",
       "title": "正解",
       "category": "pv",
-      "credit": "剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n\n圖像: 糖粉[X: err215670w02](https://x.com/err215670w02)\n\n音樂: 正解(雨良 Amala)",
+      "credit": "剪輯：龍沁\n圖像：糖粉\n音樂：正解(雨良 Amala)",
       "date": "2026.09.17",
       "client": "",
       "description": "仿原版 PV 製作，呈現文字動畫、節奏編排與畫面動態。原曲及原作權利屬各權利人。",
@@ -516,17 +768,63 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "PV 仿作",
-      "cover": "assets/work-15-video-0.webp"
+      "cover": "assets/work-15-video-0.webp",
+      "creditRows": [
+        {
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "糖粉"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "正解(雨良 Amala)"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-15-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-16",
       "title": "再見，再建",
       "category": "original",
-      "credit": "剪輯: 龍沁\n分鏡: 很多龍[FB: 很多龍](https://www.facebook.com/hen.duo.ren.2025)、龍沁\n圖像: \n\n糖粉[X: err215670w02](https://x.com/err215670w02)\n莊劭韋[FB: 莊劭韋](https://www.facebook.com/zhuang.shao.wei.550407)\n\n混音: 時光音樂工作室\n\n旁白錄音: 傑鶆伊[FB: 傑鶆伊](https://www.facebook.com/Giraii3)\n\n音樂:\nセカイ(Deco*27)\nJourney(Deco*27) \nハローセカイ(Deco*27)",
+      "credit": "剪輯：龍沁\n分鏡：很多龍、龍沁\n圖像：糖粉、莊劭韋\n混音：時光音樂工作室\n旁白錄音：傑鶆伊\n音樂：セカイ(Deco*27)、Journey(Deco*27)、ハローセカイ(Deco*27)",
       "date": "2026.01.14–2026.11.21",
       "client": "",
       "description": "以「告別／重建」為核心，結合角色故事、音樂重編曲、原創編舞與動態影像的跨媒介舞台企劃。停滯，也在向前。",
-      "images": [],
+      "images": [
+        {
+          "src": "assets/work-18-image-0.webp",
+          "caption": "夏魯 · 角色卡"
+        },
+        {
+          "src": "assets/work-18-image-1.webp",
+          "caption": "幻幻 · 角色卡"
+        },
+        {
+          "src": "assets/work-18-image-2.webp",
+          "caption": "石頭 · 角色卡"
+        },
+        {
+          "src": "assets/work-18-image-3.webp",
+          "caption": "米糖 · 角色卡"
+        },
+        {
+          "src": "assets/work-18-image-4.webp",
+          "caption": "龍沁 · 角色卡"
+        }
+      ],
       "videos": [
         {
           "src": "assets/work-16-video-0.mp4",
@@ -537,6 +835,24 @@ window.PORTFOLIO = {
           "src": "assets/work-16-intro.mp4",
           "poster": "assets/work-16-intro.webp",
           "label": "長前導版本"
+        },
+        {
+          "src": "assets/work-17-video-0.mp4",
+          "poster": "assets/work-17-video-0.webp",
+          "label": "Teaser.1",
+          "date": "2026.01.14"
+        },
+        {
+          "src": "assets/work-17-video-1.mp4",
+          "poster": "assets/work-17-video-1.webp",
+          "label": "Teaser.2",
+          "date": "2026.02.01"
+        },
+        {
+          "src": "assets/work-17-video-2.mp4",
+          "poster": "assets/work-17-video-2.webp",
+          "label": "Teaser.3",
+          "date": "2026.05.05"
         }
       ],
       "kind": "原創企劃",
@@ -579,81 +895,221 @@ window.PORTFOLIO = {
           "title": "實際演出",
           "description": "高雄衛武營"
         }
-      ]
-    },
-    {
-      "id": "work-17",
-      "title": "再見，再建｜Teaser",
-      "category": "original",
-      "credit": "剪輯、文案: 龍沁\n\n圖像: \n糖粉[X: err215670w02](https://x.com/err215670w02)\n莊劭韋[FB: 莊劭韋](https://www.facebook.com/zhuang.shao.wei.550407)",
-      "date": "2026.01.14–2026.05.05",
-      "client": "",
-      "description": "將世界觀與角色故事轉化為短篇前導影像。",
-      "images": [],
-      "videos": [
+      ],
+      "creditRows": [
         {
-          "src": "assets/work-17-video-0.mp4",
-          "poster": "assets/work-17-video-0.webp",
-          "label": "Teaser.1",
-          "date": "2026.01.14"
+          "role": "剪輯",
+          "names": [
+            "龍沁"
+          ]
         },
         {
-          "src": "assets/work-17-video-1.mp4",
-          "poster": "assets/work-17-video-1.webp",
-          "label": "Teaser.2",
-          "date": "2026.02.01"
+          "role": "分鏡",
+          "names": [
+            "很多龍、龍沁"
+          ]
         },
         {
-          "src": "assets/work-17-video-2.mp4",
-          "poster": "assets/work-17-video-2.webp",
-          "label": "Teaser.3",
-          "date": "2026.05.05"
+          "role": "圖像",
+          "names": [
+            "糖粉",
+            "莊劭韋"
+          ]
+        },
+        {
+          "role": "混音",
+          "names": [
+            "時光音樂工作室"
+          ]
+        },
+        {
+          "role": "旁白錄音",
+          "names": [
+            "傑鶆伊"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "セカイ(Deco*27)",
+            "Journey(Deco*27)",
+            "ハローセカイ(Deco*27)"
+          ]
         }
       ],
-      "kind": "原創企劃",
-      "cover": "assets/work-17-video-0.webp",
-      "dateLabel": "製作期間"
-    },
-    {
-      "id": "work-18",
-      "title": "再見，再建｜角色與世界觀",
-      "category": "original",
-      "credit": "角色、故事大綱、服裝: 龍沁\n圖像: 糖粉[X: err215670w02](https://x.com/err215670w02)",
-      "date": "2026.04.17",
-      "client": "",
-      "description": "殘光再構 LUXEMNANT。龍沁、米糖、石頭、幻幻與夏魯，共同走向重建的旅程。",
-      "images": [
+      "sections": [
         {
-          "src": "assets/work-18-image-0.webp",
-          "caption": "夏魯 · 角色卡"
+          "title": "舞台影像",
+          "description": "以「告別／重建」為核心，結合角色故事、音樂重編曲、原創編舞與動態影像的跨媒介舞台企劃。停滯，也在向前。",
+          "date": "2026.01.14–2026.11.21",
+          "collaborators": "",
+          "videos": [
+            {
+              "src": "assets/work-16-video-0.mp4",
+              "poster": "assets/work-16-video-0.webp",
+              "label": "舞台影像完整版"
+            },
+            {
+              "src": "assets/work-16-intro.mp4",
+              "poster": "assets/work-16-intro.webp",
+              "label": "長前導版本"
+            }
+          ],
+          "images": []
         },
         {
-          "src": "assets/work-18-image-1.webp",
-          "caption": "幻幻 · 角色卡"
+          "title": "Teaser",
+          "description": "將世界觀與角色故事轉化為短篇前導影像。",
+          "date": "2026.01.14–2026.05.05",
+          "collaborators": "",
+          "videos": [
+            {
+              "src": "assets/work-17-video-0.mp4",
+              "poster": "assets/work-17-video-0.webp",
+              "label": "Teaser.1",
+              "date": "2026.01.14"
+            },
+            {
+              "src": "assets/work-17-video-1.mp4",
+              "poster": "assets/work-17-video-1.webp",
+              "label": "Teaser.2",
+              "date": "2026.02.01"
+            },
+            {
+              "src": "assets/work-17-video-2.mp4",
+              "poster": "assets/work-17-video-2.webp",
+              "label": "Teaser.3",
+              "date": "2026.05.05"
+            }
+          ],
+          "images": []
         },
         {
-          "src": "assets/work-18-image-2.webp",
-          "caption": "石頭 · 角色卡"
-        },
-        {
-          "src": "assets/work-18-image-3.webp",
-          "caption": "米糖 · 角色卡"
-        },
-        {
-          "src": "assets/work-18-image-4.webp",
-          "caption": "龍沁 · 角色卡"
+          "title": "角色與世界觀",
+          "description": "殘光再構 LUXEMNANT。龍沁、米糖、石頭、幻幻與夏魯，共同走向重建的旅程。",
+          "date": "2026.04.17",
+          "collaborators": "糖粉",
+          "videos": [],
+          "images": [
+            {
+              "src": "assets/work-18-image-0.webp",
+              "caption": "夏魯 · 角色卡"
+            },
+            {
+              "src": "assets/work-18-image-1.webp",
+              "caption": "幻幻 · 角色卡"
+            },
+            {
+              "src": "assets/work-18-image-2.webp",
+              "caption": "石頭 · 角色卡"
+            },
+            {
+              "src": "assets/work-18-image-3.webp",
+              "caption": "米糖 · 角色卡"
+            },
+            {
+              "src": "assets/work-18-image-4.webp",
+              "caption": "龍沁 · 角色卡"
+            }
+          ]
         }
       ],
-      "videos": [],
-      "kind": "角色企劃",
-      "cover": "assets/work-18-image-0.webp",
-      "collaborators": "糖粉"
+      "creditGroups": [
+        {
+          "title": "舞台影像",
+          "rows": [
+            {
+              "role": "剪輯",
+              "names": [
+                "龍沁"
+              ]
+            },
+            {
+              "role": "分鏡",
+              "names": [
+                "很多龍、龍沁"
+              ]
+            },
+            {
+              "role": "圖像",
+              "names": [
+                "糖粉",
+                "莊劭韋"
+              ]
+            },
+            {
+              "role": "混音",
+              "names": [
+                "時光音樂工作室"
+              ]
+            },
+            {
+              "role": "旁白錄音",
+              "names": [
+                "傑鶆伊"
+              ]
+            },
+            {
+              "role": "音樂",
+              "names": [
+                "セカイ(Deco*27)",
+                "Journey(Deco*27)",
+                "ハローセカイ(Deco*27)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Teaser",
+          "rows": [
+            {
+              "role": "剪輯、文案",
+              "names": [
+                "龍沁"
+              ]
+            },
+            {
+              "role": "圖像",
+              "names": [
+                "糖粉",
+                "莊劭韋"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "角色與世界觀",
+          "rows": [
+            {
+              "role": "角色、故事大綱、服裝",
+              "names": [
+                "龍沁"
+              ]
+            },
+            {
+              "role": "圖像",
+              "names": [
+                "糖粉"
+              ]
+            }
+          ]
+        }
+      ],
+      "legacyIds": [
+        "work-17",
+        "work-18"
+      ],
+      "homePreview": {
+        "src": "assets/work-16-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-19",
       "title": "雨，你",
       "category": "original",
-      "credit": "文字腳本、剪輯: 龍沁[X: wade990047](https://x.com/wade990047)\n圖像: 奇奇[X: qwqspeeds](https://x.com/qwqspeeds)\n音樂: 穹夜[X: leahcim0814](https://x.com/leahcim0814)",
+      "credit": "文字腳本、剪輯：龍沁\n圖像：奇奇\n音樂：穹夜",
       "date": "2024.07.10",
       "client": "",
       "description": "從文字腳本出發，結合原創音樂與插畫的敘事影像。",
@@ -667,7 +1123,32 @@ window.PORTFOLIO = {
       ],
       "kind": "原創敘事",
       "cover": "assets/work-19-video-0.webp",
-      "collaborators": "穹夜、奇奇、Nero"
+      "collaborators": "穹夜、奇奇、Nero",
+      "creditRows": [
+        {
+          "role": "文字腳本、剪輯",
+          "names": [
+            "龍沁"
+          ]
+        },
+        {
+          "role": "圖像",
+          "names": [
+            "奇奇"
+          ]
+        },
+        {
+          "role": "音樂",
+          "names": [
+            "穹夜"
+          ]
+        }
+      ],
+      "homePreview": {
+        "src": "assets/work-19-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
     },
     {
       "id": "work-20",
@@ -686,7 +1167,8 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "短影音宣傳",
-      "cover": "assets/work-20-video-0.webp"
+      "cover": "assets/work-20-video-0.webp",
+      "creditRows": []
     },
     {
       "id": "work-21",
@@ -705,7 +1187,8 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "短影音宣傳",
-      "cover": "assets/work-21-video-0.webp"
+      "cover": "assets/work-21-video-0.webp",
+      "creditRows": []
     },
     {
       "id": "work-22",
@@ -724,7 +1207,8 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "短影音宣傳",
-      "cover": "assets/work-22-video-0.webp"
+      "cover": "assets/work-22-video-0.webp",
+      "creditRows": []
     },
     {
       "id": "work-23",
@@ -743,7 +1227,13 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "動態設計",
-      "cover": "assets/work-23-video-0.webp"
+      "cover": "assets/work-23-video-0.webp",
+      "creditRows": [],
+      "homePreview": {
+        "src": "assets/work-23-video-0.webp",
+        "width": 960,
+        "height": 480
+      }
     },
     {
       "id": "work-24",
@@ -762,7 +1252,8 @@ window.PORTFOLIO = {
         }
       ],
       "kind": "動態設計",
-      "cover": "assets/work-24-video-0.webp"
+      "cover": "assets/work-24-video-0.webp",
+      "creditRows": []
     },
     {
       "id": "work-25",
@@ -784,7 +1275,8 @@ window.PORTFOLIO = {
       ],
       "videos": [],
       "kind": "平面設計",
-      "cover": "assets/work-25-image-0.webp"
+      "cover": "assets/work-25-image-0.webp",
+      "creditRows": []
     },
     {
       "id": "work-26",
@@ -832,6 +1324,213 @@ window.PORTFOLIO = {
           "src": "assets/booth-checkout-intro.mp4",
           "poster": "assets/booth-checkout-intro.webp",
           "label": "小攤日常｜介紹影片"
+        }
+      ],
+      "creditRows": [],
+      "homePreview": {
+        "src": "assets/booth-checkout-intro.webp",
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "id": "work-27",
+      "title": "赤伶",
+      "category": "pv",
+      "kind": "PV 製作",
+      "date": "2026.11.22",
+      "client": "曉夜",
+      "credit": "",
+      "description": "《赤伶》PV 作品，結合角色畫面、文字動畫與音樂節奏。",
+      "images": [],
+      "cover": "assets/work-27-video-0.webp",
+      "videos": [
+        {
+          "src": "assets/work-27-video-0.mp4",
+          "poster": "assets/work-27-video-0.webp",
+          "label": "赤伶"
+        }
+      ],
+      "creditRows": [],
+      "homePreview": {
+        "src": "assets/work-27-video-0.webp",
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "id": "work-28",
+      "title": "白馳氷織｜動態 LOGO",
+      "category": "other",
+      "kind": "動態 LOGO",
+      "date": "2026.11.12",
+      "client": "白馳氷織",
+      "credit": "",
+      "description": "白馳氷織的動態 LOGO 展示。",
+      "images": [],
+      "cover": "assets/work-28-video-0.webp",
+      "videos": [
+        {
+          "src": "assets/work-28-video-0.mp4",
+          "poster": "assets/work-28-video-0.webp",
+          "label": "白馳氷織｜動態 LOGO"
+        }
+      ],
+      "creditRows": [],
+      "homePreview": {
+        "src": "assets/work-28-video-0.webp",
+        "width": 960,
+        "height": 598
+      }
+    }
+  ],
+  "partnerTagOrder": [
+    "立繪",
+    "角色設計",
+    "精緻插圖",
+    "多人插圖",
+    "Q版繪圖",
+    "背景設計",
+    "平面設計",
+    "分鏡設計",
+    "漫畫",
+    "速寫",
+    "L2D",
+    "舞蹈",
+    "短影音",
+    "活動演出"
+  ],
+  "partners": [
+    {
+      "id": "f00b2e476b34",
+      "name": "米糖",
+      "category": "creators",
+      "avatar": "assets/partners/f00b2e476b34.jpg",
+      "tags": [
+        "舞蹈",
+        "短影音",
+        "活動演出"
+      ],
+      "links": [
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/Maltose.mif"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/Maltose_m"
+        }
+      ]
+    },
+    {
+      "id": "3c6a3eb54df7",
+      "name": "奇奇",
+      "category": "illustrators",
+      "avatar": "assets/partners/3c6a3eb54df7.jpg",
+      "tags": [
+        "立繪",
+        "角色設計",
+        "精緻插圖",
+        "多人插圖",
+        "Q版繪圖",
+        "背景設計",
+        "L2D"
+      ],
+      "links": [
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/qwqspeeds"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/qwqspeed"
+        }
+      ]
+    },
+    {
+      "id": "c03880f1bc4a",
+      "name": "莊劭韋",
+      "category": "illustrators",
+      "avatar": "assets/partners/c03880f1bc4a.jpg",
+      "tags": [
+        "立繪",
+        "角色設計",
+        "精緻插圖",
+        "多人插圖",
+        "Q版繪圖",
+        "背景設計",
+        "平面設計",
+        "分鏡設計",
+        "漫畫",
+        "速寫"
+      ],
+      "links": [
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/zhuang.shao.wei.550407"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/Wenvic9782"
+        }
+      ]
+    },
+    {
+      "id": "b7244e7cf139",
+      "name": "雪露",
+      "category": "illustrators",
+      "avatar": "assets/partners/b7244e7cf139.jpg",
+      "tags": [
+        "立繪",
+        "角色設計",
+        "精緻插圖",
+        "多人插圖",
+        "Q版繪圖",
+        "平面設計"
+      ],
+      "links": [
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/Sheryl881225"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/Sheryl740837"
+        }
+      ]
+    },
+    {
+      "id": "4e4c8a12a928",
+      "name": "糖粉",
+      "category": "illustrators",
+      "avatar": "assets/partners/4e4c8a12a928.png",
+      "tags": [
+        "立繪",
+        "角色設計",
+        "精緻插圖",
+        "多人插圖",
+        "Q版繪圖",
+        "背景設計",
+        "平面設計"
+      ],
+      "links": [
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/tang.fen.169587"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/err215670w02"
         }
       ]
     }

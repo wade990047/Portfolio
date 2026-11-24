@@ -41,7 +41,7 @@
 
   if (!('IntersectionObserver' in window) || !Element.prototype.animate) return;
   const seen = new WeakSet();
-  const selector = '.hero-copy > *, .profile, .section-head, .update-row, .page-header, .work-card, .detail-title, .detail-intro, .media-stack > figure, .gallery figure, .event-posters figure, .tool-usage, .about-photo, .about-copy > *, .credits';
+  const selector = '.hero-copy > *, .profile, .section-head, .update-row, .page-header, .work-card, .partner-row, .detail-title, .detail-intro, .media-stack > figure, .gallery figure, .event-posters figure, .tool-usage, .about-photo, .about-copy > *, .credits';
   const observer = new IntersectionObserver(entries => {
     let stagger = 0;
     entries.forEach(entry => {
